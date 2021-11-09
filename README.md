@@ -1,2 +1,2 @@
-# Project9-TinCat_Remake
-Modification done in terms of responsiveness.
+# TinCat_Remake
+A single page Website. Modification done in terms of responsiveness.
